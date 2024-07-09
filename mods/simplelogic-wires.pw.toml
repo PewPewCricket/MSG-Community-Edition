@@ -1,0 +1,13 @@
+name = "SimpleLogic Wires"
+filename = "SimpleLogic-Wires-0.5.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a03c3abf8cb265bde891bf874826d8ac1158296"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2754601
+project-id = 298029

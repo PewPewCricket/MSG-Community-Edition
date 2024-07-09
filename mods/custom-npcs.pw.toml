@@ -1,0 +1,13 @@
+name = "Custom NPCs"
+filename = "CustomNPCs_1.12.2-(05Jul20).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5469076df8b1d9db4e483131dc94e270b8bc7cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2996912
+project-id = 221826

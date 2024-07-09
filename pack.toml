@@ -1,0 +1,13 @@
+name = "MSG Community Edition"
+author = "MakeShift Gang, PewPewCricket"
+version = "0.1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df6730741af0b90e7d024c925efedc03c593a92355aa45f6deeb678a4cff051a"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

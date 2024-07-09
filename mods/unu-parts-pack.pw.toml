@@ -1,0 +1,13 @@
+name = "UNU Parts Pack [MTS]"
+filename = "UNU Parts Pack [MTS] 1.12.2-22.13.0-6.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14cdeb2302d8e5d62d568bae17caf983c0bc358f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5201784
+project-id = 302390

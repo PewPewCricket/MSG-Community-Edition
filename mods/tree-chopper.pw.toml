@@ -1,0 +1,13 @@
+name = "Tree Chopper"
+filename = "TreeChopper-1.12.2-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f909c06927e39d7fa6107a588cfa9dd81296e75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2492770
+project-id = 250241

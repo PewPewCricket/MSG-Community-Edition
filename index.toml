@@ -1,0 +1,491 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Building Gadgets.cfg"
+hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "bc39adf5dd9f14dfa4ec40f1b816bc561ec52956b4e93d75185c18f93a96a76a"
+
+[[files]]
+file = "config/CustomNpcs.cfg"
+hash = "12fc583e3c5d789fb032d1a34bb963908f76f26c28406f072f124f8a30a00f9f"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "eadeeb0affaeef7b8c5d1ef7d522c28d0a987b25a404e1b56332d9334ee9f7f1"
+
+[[files]]
+file = "config/MovingWorld/AssemblePriority.cfg"
+hash = "1ac612f657e5599797e479618d52e93e18b73313052bd38f5ac9743a6fd1c5dc"
+
+[[files]]
+file = "config/MovingWorld/Main.cfg"
+hash = "ba2ecb01b259d9d75a293517822207440ba5a56508f34b02897e33a9835aaf10"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "c70090162f7fd7f4cfcd7bd14377d72d926541ec5742b7e043eacbf6bcb7d8b1"
+
+[[files]]
+file = "config/ambientsounds.cfg"
+hash = "1126bb70caa6948abe27d5b152204b0e549aa8d114d32924b31489ad14588e16"
+
+[[files]]
+file = "config/betterfoliage.cfg"
+hash = "655f868b3d0c8aa092e4ae62cafa9813816970f1038cbda8e9f06688fa4c5004"
+
+[[files]]
+file = "config/buildcraft/detailed.properties"
+hash = "98144c16d7451750411a87f169de4b027493f54b87d1ad04077d582f76a56402"
+
+[[files]]
+file = "config/buildcraft/main.cfg"
+hash = "f275225e3d6f6df023c14d9abb8971c00d329fa64e7c97554a1573dfd8e74987"
+
+[[files]]
+file = "config/buildcraft/objects.cfg"
+hash = "0e65354b3ff70612a68b2891f31b0a6964254ecf1cf97b4d60e65cf3b4753587"
+
+[[files]]
+file = "config/charset/charset.cfg"
+hash = "729812a1fb197d3b9c42a34ec517deff0262e2ca3e92a0e2aea4aa6574dc62e8"
+
+[[files]]
+file = "config/charset/ids.cfg"
+hash = "1df6a2a0915928fe6af5174fbd709ca8e366cf9bf5ab73fd12fc37cdd29f7327"
+
+[[files]]
+file = "config/charset/module/lib.cfg"
+hash = "c7b5af5179a9ca3a79b3770a2c68228c3c74707e5793b345f887e8360763e8be"
+
+[[files]]
+file = "config/charset/module/simplelogic.wires.cfg"
+hash = "aef36c2c765b1a6f1c65824541697cc70f5896f6351b6b699f134e5fffa82b3b"
+
+[[files]]
+file = "config/charset/modules.cfg"
+hash = "e0641e1b3371e19173b6d1b52de2ca3fbd8d1c40cd039b5883c1cdbebb4fe9b0"
+
+[[files]]
+file = "config/codechicken/supporters.json"
+hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
+
+[[files]]
+file = "config/codechicken/supporters.marker"
+hash = "96246a81b2d3d3a82d960f7a73ee728e2dec44507a3ffa9a142c4ae746f9ee0e"
+
+[[files]]
+file = "config/codechickenlib.cfg"
+hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "73033d7ed64b54f6736ec7f74f428c09c13206dfda43162546191ca6c433c059"
+
+[[files]]
+file = "config/creativecore.json"
+hash = "52c4973688794613332db134f5efb6fbb481456712316c8545174ea67538e369"
+
+[[files]]
+file = "config/davincisvessels.cfg"
+hash = "6b2d0c4ca50aed6c13548e505a3b0613419b4a42c94a4aacd4b5a110a6ad1312"
+
+[[files]]
+file = "config/energyconverters.cfg"
+hash = "ef436247ac746091e1b8387e525a956154f5ef496e0116e14fffe663dd5f423e"
+
+[[files]]
+file = "config/forestry/apiculture.cfg"
+hash = "b43a031faa3853604b6ff9fcd2874f36abd738d2674faeca140a353065956563"
+
+[[files]]
+file = "config/forestry/arboriculture.cfg"
+hash = "9ff9f6cb66041ed1f4c46671e9f5f5fca8bd474667f60ca00bdda9d3103dd9b0"
+
+[[files]]
+file = "config/forestry/backpacks.cfg"
+hash = "44a3555b9d8a5f9458cc7035f1c7bcab03baa3825ed042f2a45b41c3997a5116"
+
+[[files]]
+file = "config/forestry/common.cfg"
+hash = "09fb5a80f7f9369b1ad2dad8443fdf175a06859873c40abbb05487eecfb7e4fc"
+
+[[files]]
+file = "config/forestry/crates.cfg"
+hash = "83cce0c3a6dd8f404a9bd55c14fd520145848b48b565fa43381d3ff7da7eac47"
+
+[[files]]
+file = "config/forestry/farm.cfg"
+hash = "9a5503326581c853e024f18876e9530a4c92e4a14086a005d6325e1060add488"
+
+[[files]]
+file = "config/forestry/fluids.cfg"
+hash = "d08654e4fa40af3f1c372c9670fdea7826440ebd6659f42f793dd766e86c65a5"
+
+[[files]]
+file = "config/forestry/gamemodes/EASY.cfg"
+hash = "4f1e1e54822314841441c65705e565811a77e45d88c7b69bdfd23f2e80ae8ad7"
+
+[[files]]
+file = "config/forestry/gamemodes/HARD.cfg"
+hash = "29392ba39553f4a94dfa4dccd16237bceeef4514afaddfc1ed756b2274f543a3"
+
+[[files]]
+file = "config/forestry/gamemodes/NORMAL.cfg"
+hash = "bea2b7556e5cf24b5596e46ca68ff49f26418e4149e07caf3b97be4a84c4db10"
+
+[[files]]
+file = "config/forestry/gamemodes/OP.cfg"
+hash = "5d76036dbc9cd6a2441ed8dd44b6946b671a4ad4b30fb63e7aa3d0a8e2c5ebe5"
+
+[[files]]
+file = "config/forestry/lepidopterology.cfg"
+hash = "2196929d2248ae1e73ed2d64d389f89632887df3e1dc38cb62831d414b69c7ac"
+
+[[files]]
+file = "config/forestry/modules.cfg"
+hash = "3c4e462d04cd4ecce9f288c8bd5d312863c2ce3b3a7dadd593aea913953037f8"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "cdf24d8f911041af84cad64652d648399493c0d713fdaaf08eb7928e6e943efd"
+
+[[files]]
+file = "config/fp2.json5"
+hash = "d7ff95315aa9faa0d97d186f345300727c32dc93c8c4cb7b74f56506a87bc6a9"
+
+[[files]]
+file = "config/immersiveengineering.cfg"
+hash = "df67cdf29c62a5277e86fef10e9d81aef4d4033bb52b57cbb06473c3dcbb6e0a"
+
+[[files]]
+file = "config/immersivepetroleum.cfg"
+hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
+
+[[files]]
+file = "config/immersiverailroading.cfg"
+hash = "c91d5e62dc531e85664c61b0b6f65bd0b8db453f536dc1ebfd88bbf52ef2829a"
+
+[[files]]
+file = "config/immersiverailroading_graphics.cfg"
+hash = "ffbac27d185c96ef56db5202cc0f773439dde120bd9ab2aaac5ba0cf1c6c15c6"
+
+[[files]]
+file = "config/immersiverailroading_permissions.cfg"
+hash = "5f8644271ccc99183610089aa0a89af8fd05a01ceb40ab72042dcc444a9c54c1"
+
+[[files]]
+file = "config/immersiverailroading_sound.cfg"
+hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "c7a448f61112811c7a4355bcc89b16884867997b7550f404588aec29f00f89e9"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "3715fb43f5a6a7d21d1c73a279de117b5cfa345775cc0283993305d6f46c3e7e"
+
+[[files]]
+file = "config/journeymap_ModInfo.cfg"
+hash = "8bca66470d4e2930a9d08e7c7642cff541de450e8f463912f8273c2cee025c51"
+
+[[files]]
+file = "config/journeymap_server.cfg"
+hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
+
+[[files]]
+file = "config/lunatriuscore.cfg"
+hash = "62b4288aef168d9d67efbf5432d0bb952542cfe49f7ba76683bbe0ea87f170c0"
+
+[[files]]
+file = "config/mtsconfig.json"
+hash = "95e4e0a111b256f0a97685041747afe4bf1fb93566494658d68fefbac27fb6dc"
+
+[[files]]
+file = "config/mtsconfigclient.json"
+hash = "8e65684448fcf15398968c8569914f0c1eadc2f398acc18a581178c6877e1788"
+
+[[files]]
+file = "config/opencomputers/default.recipes"
+hash = "83e92db8906351e470d13907bab0516febfdba6abf9de6f7abe3970cdc64302a"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
+
+[[files]]
+file = "config/opencomputers/settings.conf"
+hash = "217517dc381196b76a40ee69180c03b956436e1777cd27cef596540d1cb55341"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "d844eab17b1c36355455e672bd1144bc5ea8b83536eaa4eace4af78961952240"
+
+[[files]]
+file = "config/railstuff.cfg"
+hash = "2a37b0a600a7a45509d77bc078cb680062cb90df41237b9c23135ea2c1f523f4"
+
+[[files]]
+file = "config/schematica.cfg"
+hash = "790cf64e250940281c44978251da3ecd46701f63a7d811f087fb2ef670e99061"
+
+[[files]]
+file = "config/splash.properties"
+hash = "d25fe381e9cc1406937f9790828193fdf7c8ebba08f580a9721c78a09554a58e"
+
+[[files]]
+file = "config/trafficcontrol.cfg"
+hash = "f91c1e52e5d9bd22d5830463d7e3d9703b1c88740a19bca66f1d091ca432b432"
+
+[[files]]
+file = "config/treechopper/treechopper.cfg"
+hash = "1ceb5dd5dfb64ba80f57a658013f9717bc68c9526ff5dcdced875270a5958fcf"
+
+[[files]]
+file = "config/universalmodcore.cfg"
+hash = "d3eef84edaaa901a6aa4cbd8b0823b14e4513a224184445ce6eb98c399b11767"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "48bb2f037bf5c68cc264084218ed3a35f54f3c043c2dd05d9cb3fb1c935c43cd"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "d30be6e5330842286ca8919a7c4df3b71658bfde824b6b2aad3c233e8390b3d5"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "73fc6e115030a93a623b6c311a29fb7f81bc270b13db2ba58a80903889a63317"
+metafile = true
+
+[[files]]
+file = "mods/better-foliage.pw.toml"
+hash = "9e76daa5280ca7169ac535c8444820ddc5f0131d0a89eeb78278ecd310be9fe7"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "d62883f7124ad585954da26582f7ab9405441810598060186e556493305ef41a"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
+metafile = true
+
+[[files]]
+file = "mods/charset-lib.pw.toml"
+hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
+metafile = true
+
+[[files]]
+file = "mods/chicken-chunks-1-8.pw.toml"
+hash = "8c1cd98cbd76ccba330c24575c02edd0ede38a08330a843f9874efee8a1738dd"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "c18c1d2e6b3876fa4adb810c3d00a956e70bed102163bbf863de222bc9399585"
+metafile = true
+
+[[files]]
+file = "mods/custom-npcs.pw.toml"
+hash = "5dc674f18395c521d35560bed95784acfa4ec29869d1aeba0a74db67faf72ea8"
+metafile = true
+
+[[files]]
+file = "mods/davincis-vessels.pw.toml"
+hash = "d5a4f188edf66f391bc117cf572aa03da58779dadec149c1f09acc02a8d374b2"
+metafile = true
+
+[[files]]
+file = "mods/energy-converters.pw.toml"
+hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
+metafile = true
+
+[[files]]
+file = "mods/gyro_heros-helicopter-pack-iv-mts.pw.toml"
+hash = "774ff55390e23561191b9647990795f1713c74e8436c3f2dcb2b541b8043bc81"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
+metafile = true
+
+[[files]]
+file = "mods/immersive-railroading.pw.toml"
+hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
+metafile = true
+
+[[files]]
+file = "mods/mcmultipart.pw.toml"
+hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "98eedad6f26d803558b3d66d4d73170a49f959b136df7f789ec29e622fcf7172"
+metafile = true
+
+[[files]]
+file = "mods/minetweaker-recipemaker.pw.toml"
+hash = "ec44fb5b7a7f89925e8473869a201fa113ff8b705934cd5ca62aeb2587226eac"
+metafile = true
+
+[[files]]
+file = "mods/movingworld.pw.toml"
+hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+metafile = true
+
+[[files]]
+file = "mods/railstuff.pw.toml"
+hash = "160e683b91b39c0aa9036de1d03d5b3ccc0487515237cfba087e250add9007ea"
+metafile = true
+
+[[files]]
+file = "mods/rc-roads.pw.toml"
+hash = "f7a232d5c94fc9605982b351dcdaf43e00ca6993dd6d17a0777964a43e908258"
+metafile = true
+
+[[files]]
+file = "mods/schematica.pw.toml"
+hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/simplelogic-wires.pw.toml"
+hash = "8c9cd4df8bacfbf998ff9b052ad7f29194014a7110f0223b14602603a940dc79"
+metafile = true
+
+[[files]]
+file = "mods/track-api.pw.toml"
+hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
+file = "mods/traffic-control.pw.toml"
+hash = "cfa0fd9cdead556549e3b41c1cd8b3db045d7b2324132db741c4b88acd788310"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "3e782a82bbccca1b9a03ead4e930da5ebb6ccd3907ebb657cf7cb1e3b48f03b4"
+metafile = true
+
+[[files]]
+file = "mods/tree-chopper.pw.toml"
+hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.pw.toml"
+hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
+metafile = true
+
+[[files]]
+file = "mods/unu-civilian-pack-for-mts.pw.toml"
+hash = "a29da661d85fe6f8232af4877a206f4d44daf2877169b7b75738824b5dc35d82"
+metafile = true
+
+[[files]]
+file = "mods/unu-parts-pack.pw.toml"
+hash = "d330b61a84312d24ca476c7c2b706e36b82d1516e9db051f1cdbb0c26f79b890"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "581e9d79294c85b48628d42f285d1bfcd6ee0613bd7ff26ed0ceaf21786706d8"

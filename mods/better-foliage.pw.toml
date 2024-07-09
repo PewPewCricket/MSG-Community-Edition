@@ -1,0 +1,16 @@
+name = "Better Foliage"
+filename = "BetterFoliage-MC1.12-2.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c34adcb52deed9acedb0b0c92ef7132f97c21e4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3393955
+project-id = 228529
+
+[option]
+optional = true

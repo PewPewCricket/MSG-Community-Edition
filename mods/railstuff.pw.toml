@@ -1,0 +1,13 @@
+name = "Railstuff"
+filename = "railstuff-0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd523753d200eab3e4cb5fda1b3275ebd6a32c7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3137850
+project-id = 313175

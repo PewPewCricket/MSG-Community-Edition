@@ -1,0 +1,13 @@
+name = "Hero Aviation Helicopter Pack [IV/MTS content pack]"
+filename = "Helicopter_Pack-2.8.0_1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "762aa5aba8e218c364f17a6db7fc49931e84706e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4141752
+project-id = 375129

@@ -1,0 +1,13 @@
+name = "MineTweaker RecipeMaker"
+filename = "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcba657d7b5868d1cd92dd653132a6f33b688877"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2497436
+project-id = 226294
