@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a9a1aaedfcc9bb5c67d1957413092067866d83cbc543b8c4a284fc9b1b1cdaed"
+
+[[files]]
+file = "README.md"
+hash = "b914de23884e42868ff0dbc6b3ae55b775ae8d6ccfc7f3cd0c5757f6e145b090"
+
+[[files]]
 file = "config/Building Gadgets.cfg"
 hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
 
@@ -293,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "d62883f7124ad585954da26582f7ab9405441810598060186e556493305ef41a"
+hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
 metafile = true
 
 [[files]]
