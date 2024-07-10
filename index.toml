@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
-hash = "73fc6e115030a93a623b6c311a29fb7f81bc270b13db2ba58a80903889a63317"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
