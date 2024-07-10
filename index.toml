@@ -342,6 +342,11 @@ hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
+metafile = true
+
+[[files]]
 file = "mods/forestry.pw.toml"
 hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
 metafile = true
@@ -432,6 +437,11 @@ hash = "f7a232d5c94fc9605982b351dcdaf43e00ca6993dd6d17a0777964a43e908258"
 metafile = true
 
 [[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "1d7342509fa93510fda74e6d7fbe2ef1bc5c805a115149f016e11f641997c47a"
+metafile = true
+
+[[files]]
 file = "mods/schematica.pw.toml"
 hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
@@ -489,3 +499,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "581e9d79294c85b48628d42f285d1bfcd6ee0613bd7ff26ed0ceaf21786706d8"
+
+[[files]]
+file = "scripts/oredicts.zs"
+hash = "034e036e62ca0cbb92205736c255ace7d4bd6e365954bd3acf9aaf98039d7417"
