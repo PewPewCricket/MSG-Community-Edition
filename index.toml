@@ -352,6 +352,11 @@ hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
 metafile = true
 
 [[files]]
+file = "mods/furenikusroads.pw.toml"
+hash = "f6ca790b3b2e9c5cae76e13b2994ac1f2c9acee0b2686d291c719c8dff05e7dc"
+metafile = true
+
+[[files]]
 file = "mods/galacticraft-legacy.pw.toml"
 hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
 metafile = true
