@@ -380,6 +380,11 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/immersive-intelligence.pw.toml"
+hash = "6df94aefeb68c80c0ae82f3688fe248d800765c11c48e4469683fca06e296809"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
@@ -415,6 +420,11 @@ hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
 metafile = true
 
 [[files]]
+file = "mods/mct-immersive-technology.pw.toml"
+hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "98eedad6f26d803558b3d66d4d73170a49f959b136df7f789ec29e622fcf7172"
 metafile = true
@@ -427,6 +437,16 @@ metafile = true
 [[files]]
 file = "mods/movingworld.pw.toml"
 hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
+metafile = true
+
+[[files]]
+file = "mods/nco-java-legacy-lib.pw.toml"
+hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "ab46255891157406798523bacfffc12e7260703931e4721ae5d5b4c7319be261"
 metafile = true
 
 [[files]]
@@ -487,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/tree-chopper.pw.toml"
 hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
+metafile = true
+
+[[files]]
+file = "mods/trinity.pw.toml"
+hash = "f45600a005fe3468447878489d6f119da46cc650690d5b6e40efc15b2db1e887"
 metafile = true
 
 [[files]]
