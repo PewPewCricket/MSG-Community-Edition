@@ -420,11 +420,6 @@ hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
 metafile = true
 
 [[files]]
-file = "mods/mct-immersive-technology.pw.toml"
-hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "98eedad6f26d803558b3d66d4d73170a49f959b136df7f789ec29e622fcf7172"
 metafile = true
@@ -462,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/railstuff.pw.toml"
 hash = "160e683b91b39c0aa9036de1d03d5b3ccc0487515237cfba087e250add9007ea"
-metafile = true
-
-[[files]]
-file = "mods/rc-roads.pw.toml"
-hash = "f7a232d5c94fc9605982b351dcdaf43e00ca6993dd6d17a0777964a43e908258"
 metafile = true
 
 [[files]]
