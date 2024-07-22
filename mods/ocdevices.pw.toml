@@ -1,13 +1,7 @@
-name = "OCDevices"
-filename = "ocdevices-MC1.12.2-1.0.0-44.jar"
-side = "both"
+name = "ocdevices"
+filename = "view"
 
 [download]
-hash-format = "sha1"
-hash = "bcda411f996538722bd28b5bc05422c35510bb17"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2824169
-project-id = 311322
+url = "https://drive.google.com/file/d/1erL-pNTtBJP_9b0J1EgOykiGtqKXnFGc/view?usp=sharing"
+hash-format = "sha256"
+hash = "afda357a4d60e0c892cb183a2fb331e74a5bd3e95102f2b622ef8c76f9d46f09"
