@@ -325,6 +325,11 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/computronics.pw.toml"
+hash = "a371d1993b4908267f006d75ec04f1196c5afa5b14109042b9f6a1b1c47da811"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
 metafile = true
