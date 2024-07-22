@@ -325,6 +325,11 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/commons0815.pw.toml"
+hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
+metafile = true
+
+[[files]]
 file = "mods/computronics.pw.toml"
 hash = "a371d1993b4908267f006d75ec04f1196c5afa5b14109042b9f6a1b1c47da811"
 metafile = true
@@ -450,8 +455,18 @@ hash = "ab46255891157406798523bacfffc12e7260703931e4721ae5d5b4c7319be261"
 metafile = true
 
 [[files]]
+file = "mods/ocdevices.pw.toml"
+hash = "125c9651693897159a156508e16595958f5e8e3b05c1c54ef2c30ceeb41b9059"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+metafile = true
+
+[[files]]
+file = "mods/opensolidstate.pw.toml"
+hash = "68f0b99f381f52cedf44e019593450fef9024010d460b9272e92a6f1f00da0c2"
 metafile = true
 
 [[files]]

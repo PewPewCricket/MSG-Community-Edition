@@ -1,0 +1,13 @@
+name = "OCDevices"
+filename = "ocdevices-MC1.12.2-1.0.0-44.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcda411f996538722bd28b5bc05422c35510bb17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2824169
+project-id = 311322
