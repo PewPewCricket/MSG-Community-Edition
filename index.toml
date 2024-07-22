@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/commons0815.pw.toml"
-hash = "6ff0a2f1d3617dfc9432b6c5ad0cc823ad6ca6da34ddaa0da17e4d6f613411a5"
+hash = "6382e4a5506059d62a29b5c79a7ebdd2367ae09a2d2018e5badc576019852668"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/ocdevices.pw.toml"
-hash = "3ac3a9a6a3c0a48087b8956c2dfdd4c550134b88e277322b27da2dfbd14899f3"
+hash = "e45ffe7b0f771b77ab4cb72025ebca76b8dd82e9fd0c193f31f3083cc42f4336"
 metafile = true
 
 [[files]]

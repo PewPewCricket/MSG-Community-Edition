@@ -1,7 +1,7 @@
 name = "commons0815"
-filename = "view"
+filename = "commons0815-1.12.2-1.4.0.jar"
 
 [download]
-url = "https://drive.google.com/file/d/1vWWuNQtJhGDKB6fA5c6UjnY1RWueZP2K/view?usp=sharing"
+url = "https://github.com/PewPewCricket/MSG-Community-Edition/raw/master/jar/commons0815-1.12.2-1.4.0.jar"
 hash-format = "sha256"
-hash = "36fb104998c0ecb19e88d202f78d84e6b6e015ec8ebc337e5281de3485d10c1a"
+hash = "b8302780b2d234fb686c48b149ea8705291dca2a5f4b252a1e1e1ae3759bef5d"
