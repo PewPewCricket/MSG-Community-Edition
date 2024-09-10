@@ -540,11 +540,6 @@ hash = "d330b61a84312d24ca476c7c2b706e36b82d1516e9db051f1cdbb0c26f79b890"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "581e9d79294c85b48628d42f285d1bfcd6ee0613bd7ff26ed0ceaf21786706d8"
 
