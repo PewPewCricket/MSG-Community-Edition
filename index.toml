@@ -390,11 +390,6 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
-file = "mods/immersive-intelligence.pw.toml"
-hash = "6df94aefeb68c80c0ae82f3688fe248d800765c11c48e4469683fca06e296809"
-metafile = true
-
-[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
