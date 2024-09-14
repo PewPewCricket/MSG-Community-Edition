@@ -420,6 +420,11 @@ hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "f72aef7126bc4ebbb4c6df9b319908588be9067c2b47410e4e5fe85d847b2a09"
+metafile = true
+
+[[files]]
 file = "mods/mcmultipart.pw.toml"
 hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
 metafile = true
@@ -437,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/movingworld.pw.toml"
 hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "a4c498bcfebfd15bb9fe3634cec04eab7da19f93080b295de00221f3ca986cd7"
 metafile = true
 
 [[files]]
