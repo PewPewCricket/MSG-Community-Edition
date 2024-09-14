@@ -425,6 +425,16 @@ hash = "f72aef7126bc4ebbb4c6df9b319908588be9067c2b47410e4e5fe85d847b2a09"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
 file = "mods/mcmultipart.pw.toml"
 hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
 metafile = true
