@@ -320,6 +320,11 @@ hash = "8c1cd98cbd76ccba330c24575c02edd0ede38a08330a843f9874efee8a1738dd"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
@@ -342,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "c18c1d2e6b3876fa4adb810c3d00a956e70bed102163bbf863de222bc9399585"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
