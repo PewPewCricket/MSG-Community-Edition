@@ -480,11 +480,6 @@ hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
 metafile = true
 
 [[files]]
-file = "mods/opensolidstate.pw.toml"
-hash = "68f0b99f381f52cedf44e019593450fef9024010d460b9272e92a6f1f00da0c2"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
