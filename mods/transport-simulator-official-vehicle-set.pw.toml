@@ -1,13 +1,13 @@
 name = "Immersive Vehicles (MTS/IV) - Official Content Pack"
-filename = "MTS_Official_Pack_V23.jar"
+filename = "MTS Official Pack-1.12.2-V26.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "64342a7208c9ab4c38bd952a9030a1d16009e24c"
+hash = "1c64524ea41d1aa830d4b51fde3b86c73d480e16"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3592807
+file-id = 5621528
 project-id = 292217
