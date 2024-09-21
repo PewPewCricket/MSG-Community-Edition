@@ -290,6 +290,11 @@ hash = "d30be6e5330842286ca8919a7c4df3b71658bfde824b6b2aad3c233e8390b3d5"
 metafile = true
 
 [[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
