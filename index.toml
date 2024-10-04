@@ -294,7 +294,12 @@ hash = "1028b0db025bea5d6141a6ac26d5f40ef913ffa6890908647f3ff392e7244c70"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f13393c45f4f6be539516a6471a7a94c9b2d5324ecade05f65e9c7c0d2ce0c24"
+hash = "ceaeb25a8f56eb648eb6c77ac1e0bfc7c8c24f301b86f2b62796670a3de2ed7a"
+metafile = true
+
+[[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
 metafile = true
 
 [[files]]
@@ -328,6 +333,11 @@ hash = "7535157dd4968defe8fe071bb110aaa6724ce274130cce4d5965f03fe3c59574"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "09db900f940485fc925d28280350f6476cf65a54dc7cdd54925fb4dc1ea62363"
 metafile = true
@@ -344,12 +354,17 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "1564b6d88d8c6e717597978bba537f3a86ff1c5743aa51cb3c692c5e420822da"
+hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "1ba1f69310fb03a4affcbad852faf7e52ac3363d57825275223de355cdaecc26"
+hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
@@ -379,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/furenikusroads.pw.toml"
-hash = "c6ff5b1fd291f173326a890fcaa819a3befb9c99c075a2c834eb3cd8b142f743"
+hash = "8d664576f9dc87d90d544e890c49492aed978728cf171c0ecc541c7495a3cba2"
 metafile = true
 
 [[files]]
@@ -488,11 +503,6 @@ hash = "1df0a79d3e3cb7b354acc3eb59981da1e59bb10d60c34e5438df4dff0781a8cb"
 metafile = true
 
 [[files]]
-file = "mods/opensolidstate.pw.toml"
-hash = "cd62fc62c7173e740ec7d7e0d018f49d5f09e62e2416870343f8308c066fd5bf"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "687c218bd83dd66851f54a329bea6d96e1af46752b73441d06200d7158246a34"
 metafile = true
@@ -534,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/transport-simulator-official-vehicle-set.pw.toml"
-hash = "6a71efefabf2bb9b681e22339798207c5730c0ec2d2f2e2d51f0377fa5244602"
+hash = "9cdd422845048d3b41a2cd56020b61c79d06caa13fe086d5ec1dda2701621808"
 metafile = true
 
 [[files]]
@@ -554,12 +564,12 @@ metafile = true
 
 [[files]]
 file = "mods/unu-civilian-pack-for-mts.pw.toml"
-hash = "8ff1860775c60b752e73443f342735547aa120b654bb1357c0da9e7debc78b85"
+hash = "fdab9b4e90959459fee7694227bdb78eae31f8b839892a0c2e63587e9d14c3bb"
 metafile = true
 
 [[files]]
 file = "mods/unu-parts-pack.pw.toml"
-hash = "9c20a07013223509721b2b3d2ca6c54b6d203193aed888c9d8b500b4904b6089"
+hash = "1c469d4493d3932cb981e55f3b16c551bd33080576e2c5413f642e8783254b91"
 metafile = true
 
 [[files]]

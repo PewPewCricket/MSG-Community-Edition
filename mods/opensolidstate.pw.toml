@@ -1,7 +1,0 @@
-name = "opensolidstate"
-filename = "opensolidstate-1.0.jar"
-
-[download]
-url = "https://github.com/ShadowKatStudios/OpenSolidState/releases/download/v1.0.0/opensolidstate-1.0.jar"
-hash-format = "sha256"
-hash = "b58bdf0fcc526fa0678ba0afe2a9fb978dd01755622451ee2ee9deb5a955f0ee"

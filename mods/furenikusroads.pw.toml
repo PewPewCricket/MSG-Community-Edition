@@ -1,13 +1,13 @@
 name = "Fureniku's Roads"
-filename = "Furenikus_Roads-1.2.5.jar"
+filename = "Furenikus_Roads-1.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6f0c42630dac22b1d560c8c5766634ab56dad38"
+hash = "bfbd86a2596b535637f34ea9b76764a90a2d8347"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4813583
+file-id = 5700373
 project-id = 60936
